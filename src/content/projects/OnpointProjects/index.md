@@ -1,0 +1,15 @@
+---
+date: '2018-02-02'
+title: 'ReactJS Projects App'
+image: ''
+github: 'https://github.com/MigCap/projects-list'
+external: 'https://onpoint-projects.firebaseapp.com/'
+tech:
+  - ReactJS
+  - Redux
+  - Firebase
+  - Cloud Functions
+show: 'true'
+---
+
+An ongoing prototype build to increase my ReactJS & Redux skills. Firebase Authentication & password recover. Cloud functions for live notifications when user execute actions.
