@@ -1,7 +1,7 @@
 ---
 date: '2018-02-02'
 title: 'Corporate Website'
-cover: './Transformancy.png'
+cover: './Transformancy-Full.png'
 github: ''
 external: 'https://transformancy.com'
 tech:

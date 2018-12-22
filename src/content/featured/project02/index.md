@@ -5,9 +5,9 @@ cover: './OnPoint-Events.png'
 github: 'https://github.com/MigCap/onpoint-events'
 external: 'https://onpoint-events-57868.firebaseapp.com/'
 tech:
+  - Cloud Functions
   - ReactJS
   - Firebase
-  - Cloud Functions
   - Google API's
   - PWA
 ---
