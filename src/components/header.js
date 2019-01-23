@@ -10,7 +10,7 @@ import { headerHeight } from '../config';
 import resume from '../images/resume.pdf';
 
 import Menu from '../components/menu';
-import { IconLogo } from './icons';
+import { IconLogo, IconDownload } from './icons';
 
 import styled from 'styled-components';
 import { theme, mixins, media, Nav } from '../styles';
@@ -153,6 +153,11 @@ const ResumeLink = styled.a`
   ${mixins.smallButton};
   margin-left: 10px;
   font-size: ${theme.fontSizes.smallish};
+  svg {
+    padding-left: 5px;
+    width: 15px;
+    height: 15px;
+  }
 `;
 
 const DELTA = 5;
@@ -295,12 +300,9 @@ class Header extends Component {
               {isMounted && (
                 <CSSTransition classNames="fadedown" timeout={3000}>
                   <ResumeButton style={{ transitionDelay: `600ms` }}>
-                    <ResumeLink
-                      href={resume}
-                      target="_blank"
-                      download="Miguel-Capellan-CV.pdf"
-                      rel="nofollow noopener noreferrer">
+                    <ResumeLink href={resume} target="_blank" rel="nofollow noopener noreferrer">
                       Resume
+                      <IconDownload />
                     </ResumeLink>
                   </ResumeButton>
                 </CSSTransition>
