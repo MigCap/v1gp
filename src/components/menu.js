@@ -113,7 +113,11 @@ class Menu extends Component {
                   ))}
               </NavList>
             )}
-            <ResumeLink href={resume} target="_blank" rel="nofollow noopener noreferrer">
+            <ResumeLink
+              href={resume}
+              target="_blank"
+              rel="nofollow noopener noreferrer"
+              download="Miguel-Capellan-resume">
               Resume
               <IconDownload />
             </ResumeLink>
