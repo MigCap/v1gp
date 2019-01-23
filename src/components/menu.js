@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 import resume from '../images/resume.pdf';
+import { IconDownload } from './icons';
 
 import styled from 'styled-components';
 import { theme, mixins, media, Nav } from '../styles';
@@ -76,6 +77,11 @@ const ResumeLink = styled.a`
   padding: 18px 50px;
   margin: 10% auto 0;
   width: max-content;
+  svg {
+    padding-left: 5px;
+    width: 15px;
+    height: 15px;
+  }
 `;
 
 class Menu extends Component {
@@ -109,6 +115,7 @@ class Menu extends Component {
             )}
             <ResumeLink href={resume} target="_blank" rel="nofollow noopener noreferrer">
               Resume
+              <IconDownload />
             </ResumeLink>
           </NavLinks>
         </Sidebar>
