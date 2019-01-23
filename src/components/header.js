@@ -295,7 +295,11 @@ class Header extends Component {
               {isMounted && (
                 <CSSTransition classNames="fadedown" timeout={3000}>
                   <ResumeButton style={{ transitionDelay: `600ms` }}>
-                    <ResumeLink href={resume} target="_blank" rel="nofollow noopener noreferrer">
+                    <ResumeLink
+                      href={resume}
+                      target="_blank"
+                      download="Miguel-Capellan-CV.pdf"
+                      rel="nofollow noopener noreferrer">
                       Resume
                     </ResumeLink>
                   </ResumeButton>
