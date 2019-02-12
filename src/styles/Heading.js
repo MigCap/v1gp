@@ -30,6 +30,8 @@ const Heading = styled.h3`
     display: block;
     height: 1px;
     width: 300px;
+    transition: 1s;
+
     background-color: ${theme.colors.mediumGrey};
     position: relative;
     top: -5px;

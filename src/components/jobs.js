@@ -170,7 +170,7 @@ class Jobs extends Component {
 
     return (
       <JobsContainer id="jobs" ref={el => (this.jobs = el)}>
-        <Heading>My Experience</Heading>
+        <Heading>Where I've Worked</Heading>
         <TabsContainer>
           <Tabs role="tablist">
             {data &&

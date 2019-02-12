@@ -2,7 +2,7 @@
 date: '2018'
 title: 'Webdesigner & Front End Developer'
 company: 'Self-Employed'
-location: 'Boston, MA'
+location: 'Madrid, SPN'
 range: 'May 2018 - Present'
 url: ''
 ---

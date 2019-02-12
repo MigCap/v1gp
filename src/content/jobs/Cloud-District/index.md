@@ -2,8 +2,8 @@
 date: '2018'
 title: 'Front End Developer'
 company: 'Cloud District'
-location: 'Madrid'
-range: '2018'
+location: 'Madrid, SPN'
+range: 'Oct 2018 - Nov 2018'
 url: 'https://www.clouddistrict.com/'
 ---
 
