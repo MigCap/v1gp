@@ -1,5 +1,5 @@
 ---
-date: '2018-01-01'
+date: '2018-07-07'
 title: 'Spotify Web Client'
 image: ''
 github: 'https://github.com/MigCap/kp-spotlist'
@@ -9,7 +9,7 @@ tech:
   - Express
   - OAuth2
   - Spotify API
-show: 'true'
+show: 'false'
 ---
 
-Prototype I built just to keep getting skilled with ReactJS & Node / Express environments. Connection with Spotify API via oAuth2.
+Spotify Clon prototype I built just to keep getting skilled with ReactJS & Node / Express environments.

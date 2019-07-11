@@ -1,12 +1,14 @@
 ---
-date: '2018-01-01'
-title: 'Portfolio Website'
-cover: './rauldediegoWeb.png'
-github: ''
-external: 'http://rauldediego.es/'
+date: '2018-03-03'
+title: 'Spotify Web Client'
+cover: './Spotify-Clon.png'
+github: 'https://github.com/MigCap/kp-spotlist'
+external: 'https://kp-spotlist.herokuapp.com/'
 tech:
-  - Wordpress
-  - JS
+  - ReactJS
+  - Express
+  - OAuth2
+  - Spotify API
 ---
 
-Graphic Designer's portfolio website.
+Spotify prototype I built just to keep getting skilled with ReactJS & Node / Express environments.

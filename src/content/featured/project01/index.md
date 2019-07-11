@@ -1,5 +1,5 @@
 ---
-date: '2018-03-03'
+date: '2018-01-01'
 title: 'Artist Personal Website'
 cover: './Alejandro-Guijarro-Full.png'
 github: ''
