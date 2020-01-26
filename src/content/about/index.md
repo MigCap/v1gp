@@ -12,10 +12,10 @@ skills:
   - HTML 5 & CSS 3
   - SPA
   - Browser APIs
-  - Sass
-  - Styled Components
-  - React
+  - Styled Components. Sass
+  - ReactJS. Hooks. RRouter
   - Redux
+  - Saga
   - SSR
   - Firebase
   - Google Cloud

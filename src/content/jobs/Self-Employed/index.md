@@ -3,11 +3,11 @@ date: '2018'
 title: 'Webdesigner & Front End Developer'
 company: 'Self-Employed'
 location: 'Madrid, SPN'
-range: 'May 2018 - Present'
+range: 'May 2018 - Mar 2019'
 url: ''
 ---
 
-- Development of various aplications to improve skills within different frontend fields, libraries and frameworks such as ReactJS, Angular, Express, Node, Firebase, Wordpress, Google Cloud, RestAPI's, PWAs. Focusing on building consistent, solid and reusable design systems.
+- Development of various aplications to improve skills within different frontend fields, libraries and frameworks such as ReactJS, Angular, Express, Node, Firebase, Wordpress, Google Cloud, RestAPIs, PWAs. Focusing on building consistent, solid and reusable design systems.
 - I provide full service for clients to help them build websites for their business.
 - Development & design of a consultancy business website: [transformancy.com](http://transformancy.com).
 - Development & design of an artist's personal website: [alejandroguijarro.com](https://alejandroguijarro.com).
