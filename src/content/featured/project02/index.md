@@ -1,7 +1,7 @@
 ---
 date: '2018-04-04'
 title: 'Events Web App'
-cover: './OnPoint-Events-Full.png'
+cover: './OnPoint-Events.png'
 github: 'https://github.com/MigCap/onpoint-events'
 external: 'https://onpoint-events-57868.firebaseapp.com/'
 tech:
