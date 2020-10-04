@@ -25,10 +25,11 @@ const ProjectsTitle = styled.h4`
   }
 `;
 const ProjectsGrid = styled.div`
+  width: -webkit-fill-available;
   .projects {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    grid-gap: 15px;
+    grid-gap: 0.7rem;
     position: relative;
     ${media.desktop`grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));`};
   }
@@ -55,7 +56,9 @@ const Project = styled.div`
     }
   }
 `;
-const ProjectTop = styled.div``;
+const ProjectTop = styled.div`
+  min-width: -webkit-fill-available;
+`;
 const ProjectBottom = styled.div``;
 const ProjectHeader = styled.div`
   ${mixins.flexBetween};

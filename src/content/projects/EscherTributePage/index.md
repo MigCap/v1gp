@@ -8,7 +8,7 @@ tech:
   - HTML5
   - JS
   - Sass
-show: 'true'
+show: 'false'
 ---
 
 Single Page. Responsive. Tribute website. Just a practice to adapt a template with new content.
