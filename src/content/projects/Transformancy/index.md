@@ -7,7 +7,7 @@ external: 'https://transformancy.com/'
 tech:
   - Wordpress
   - JS
-show: 'true'
+show: 'false'
 ---
 
 Website created for a consultancy company.
