@@ -3,7 +3,7 @@ date: '2019'
 title: 'Front End Developer'
 company: 'Vass'
 location: 'Madrid, SPN'
-range: 'Jan 2019 - Present'
+range: 'Jan 2019 - 2020'
 url: 'https://www.vass.es/'
 ---
 
