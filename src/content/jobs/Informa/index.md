@@ -8,5 +8,5 @@ url: 'https://www.informa.es/'
 ---
 
 - Leader company in the sale of business information.
-- Migrate legacy administrative sales app (Informa & eInforma) to new stack.
-- Work with HTML5, CSS3, JavaScript (Vanilla, ES6), Typescript, ReactJS, React Testing, Sass, Storybook, GraphQL. Node.js. Git.
+- Migrate legacy CRM (Informa & eInforma) to new stack.
+- Work with HTML5, CSS3, JavaScript (Vanilla, ES6), Typescript, ReactJS, React Testing, Sass, Apollo Client. GraphQL. Git.

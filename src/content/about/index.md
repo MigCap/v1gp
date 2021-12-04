@@ -2,30 +2,24 @@
 title: 'About Me'
 avatar: './me.png'
 skills:
-  - JavaScript, ES6+
-  - Nodejs
-  - Expressjs
-  - Babel
-  - Webpack
-  - Gulp
-  - Grunt
-  - HTML 5 & CSS 3
-  - SPA
+  - JavaScript, ES6+. Babel
   - Browser APIs
+  - ReactJS. Hooks.
+  - Next.js. Gatsby. Remix
+  - Redux. Saga. Recoil
+  - SPA. SSR. PWA
+  - Nodejs. Expressjs
+  - Webpack. Vite. Gulp
+  - HTML 5. CSS 3
   - Styled Components. Sass
-  - ReactJS. Hooks. RRouter
-  - Redux
-  - Saga
-  - SSR
-  - Firebase
-  - Google Cloud
-  - Cloud Functions
   - NPM
-  - Gatsby
-  - Wordpress
+  - Firebase. Google Cloud
+  - AWS. S3
+  - Cloud Functions
+  - Wordpress. Adobe AEM
   - Git
-  - Sketch
-  - Adobe Suite
+  - Sketch. Figma
+  - Adobe & Microsoft Suites
 ---
 
 Hey there! I'm a developer who loves to deliver fully functional responsive products based on client requirements, using different technologies to enable optimum user experience. I focus on building consistent, solid and reusable design systems.
