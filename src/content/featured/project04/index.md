@@ -2,8 +2,8 @@
 date: '2018-03-03'
 title: 'Spotify Web Client'
 cover: './Spotify-Clon.png'
-github: 'https://spotlist-refurbished.vercel.app/'
-external: 'https://kp-spotlist.herokuapp.com/'
+github: 'https://github.com/MigCap/kp-spotlist'
+external: 'https://spotlist-refurbished.vercel.app/'
 tech:
   - ReactJS
   - Express
