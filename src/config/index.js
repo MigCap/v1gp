@@ -43,7 +43,7 @@ module.exports = {
     },
   ],
 
-  googleAnalyticsID: 'UA-19924278-1',
+  googleAnalyticsID: 'G-VDTMNSJXEK',
 
   headerHeight: 100,
 
