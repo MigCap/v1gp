@@ -8,13 +8,14 @@ skills:
   - Next.js. Gatsby. Remix
   - Redux. Saga. Recoil
   - SPA. SSR. PWA
-  - Nodejs. Expressjs
+  - NestJS.
+  - Nodejs. ExpressJs
   - Webpack. Vite. Gulp
   - HTML 5. CSS 3
   - Styled Components. Sass
   - NPM
-  - Firebase. Google Cloud
-  - AWS. S3
+  - Firebase. Google Cloud. Redis. DynamoDB. PostgreSQL
+  - AWS. S3. Lambda. ECS. SQS. SNS. CloudWatch. Kinesis. EventBridge. Terraform
   - Cloud Functions
   - Wordpress. Adobe AEM
   - Git
